@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsFedSample", "WsFedSample\WsFedSample.csproj", "{CA240FAA-A797-48AF-9795-A67F1842D896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNetCore.Authentication.WsFederation", "Microsoft.AspNetCore.Authentication.WsFederation\Microsoft.AspNetCore.Authentication.WsFederation.csproj", "{10A91F0B-2CA3-4907-B429-323F7299DC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA240FAA-A797-48AF-9795-A67F1842D896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA240FAA-A797-48AF-9795-A67F1842D896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA240FAA-A797-48AF-9795-A67F1842D896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA240FAA-A797-48AF-9795-A67F1842D896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A91F0B-2CA3-4907-B429-323F7299DC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A91F0B-2CA3-4907-B429-323F7299DC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A91F0B-2CA3-4907-B429-323F7299DC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A91F0B-2CA3-4907-B429-323F7299DC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D625DF15-F509-4C89-B469-7577FE75AA50}
+	EndGlobalSection
+EndGlobal
